@@ -797,11 +797,7 @@ Text Domain: NORTHERNNJ
                       </li>
                     </ul>
                   </div>
-                  <div class="search-wrap box">
-                    <button id="open-search" class="open-search">
-                      <i class="fa fa-search"></i>
-                    </button>
-                  </div>
+                  <!-- remove -->
                   <div class="extra-link box">
                     <a href="../coronavirus/index.html"
                       ><i class="fa fa-user-circle"></i>COVID-19</a
@@ -1500,27 +1496,7 @@ Text Domain: NORTHERNNJ
                       </div>
                     </form>
                   </div>
-                  <script type="text/javascript">
-                    jQuery(document).bind("gform_post_render", function(
-                      event,
-                      formId,
-                      currentPage
-                    ) {
-                      if (formId == 1) {
-                        if (typeof Placeholders != "undefined") {
-                          Placeholders.enable();
-                        }
-                      }
-                    });
-                    jQuery(document).bind(
-                      "gform_post_conditional_logic",
-                      function(event, formId, fields, isInit) {}
-                    );</script
-                  ><script type="text/javascript">
-                    jQuery(document).ready(function() {
-                      jQuery(document).trigger("gform_post_render", [1, 1]);
-                    });
-                  </script>
+                  {% comment %}removed {% endcomment %}
                 </div>
               </div>
             </div>
