@@ -5038,7 +5038,8 @@ body.siteorigin-panels-before-js .siteorigin-panels-stretch {
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#57aec0',endColorstr='#3e94a6',GradientType=0);
   border: 1px solid;
   border-color: #3a8a9b #378393 #337a88;
-  color: #fff !important;
+ 
+    color: #747377 !important;
   -webkit-border-radius: 1.5em;
   -moz-border-radius: 1.5em;
   border-radius: 1.5em;
@@ -5053,7 +5054,8 @@ body.siteorigin-panels-before-js .siteorigin-panels-stretch {
 .so-widget-sow-button-atom-db6fb3dbdbc4 .ow-button-base a:visited,
 .so-widget-sow-button-atom-db6fb3dbdbc4 .ow-button-base a:active,
 .so-widget-sow-button-atom-db6fb3dbdbc4 .ow-button-base a:hover {
-  color: #fff !important;
+ 
+    color: #747377 !important;
 }
 .so-widget-sow-button-atom-db6fb3dbdbc4
   .ow-button-base
@@ -8012,7 +8014,8 @@ div.printfriendly {
   font-family: "Lato", sans-serif;
   background: #64c5be;
   border-radius: 5px;
-  color: #fff !important;
+ 
+    color: #747377 !important;
   display: inline-block;
   vertical-align: middle;
   font-size: 1rem;
@@ -8206,14 +8209,16 @@ select {
 }
 a.btn-1,
 span.btn-1,
+button   
 button.btn-1 {
   font-family: "Lato", sans-serif !important;
-      background-image: linear-gradient(to left, #2196F3, #1851d0);
-}
+   
+
   border-radius: 2.2222222222222223rem;
   border: 0.1111111111rem solid #64c5be;
   border: none;
-  color: #fff !important;
+ 
+    color: #747377 !important;
   display: inline-block;
   font-size: 0.8888888888888888rem;
   font-weight: 700;
@@ -8337,7 +8342,8 @@ button.btn-2:hover,
 button.btn-2:focus,
 button.btn-2:active {
   text-decoration: none !important;
-  color: #fff !important;
+ 
+    color: #747377 !important;
 }
 a.btn-2:hover:after,
 a.btn-2:focus:after,
@@ -8416,7 +8422,8 @@ button.btn-3:focus,
 button.btn-3:active {
   text-decoration: none !important;
   border-color: #fff;
-  color: #fff !important;
+ 
+    color: #747377 !important;
 }
 a.btn-3:hover:after,
 a.btn-3:focus:after,
@@ -8530,7 +8537,8 @@ button.btn-5 {
   background: 0 0;
   border-radius: 2.2222222222222223rem;
   border: 0.1111111111rem solid #77ccc6;
-  color: #fff !important;
+ 
+    color: #747377 !important;
   display: inline-block;
   font-size: 0.8888888888888888rem;
   font-weight: 700;
@@ -8608,7 +8616,8 @@ button.btn-6 {
   background: 0 0;
   border-radius: 2.2222222222222223rem;
   border: 0.1111111111111111rem solid transparent;
-  color: #fff !important;
+ 
+    color: #747377 !important;
   display: inline-block;
   font-size: 0.8888888888888888rem;
   font-weight: 700;
@@ -8686,7 +8695,8 @@ button.btn-7 {
   background: 0 0;
   border-radius: 2.2222222222222223rem;
   border: 0.1111111111111111rem solid #fff;
-  color: #fff !important;
+ 
+    color: #747377 !important;
   display: inline-block;
   font-size: 0.8888888888888888rem;
   font-weight: 700;
@@ -10061,7 +10071,8 @@ hr.solid {
 }
 .pagination a:hover {
   text-decoration: none;
-  color: #fff !important;
+ 
+    color: #747377 !important;
 }
 .pagination a:hover:before {
   background: #64c5be;
@@ -10072,7 +10083,8 @@ hr.solid {
 }
 .pagination a.next:hover,
 .pagination a.prev:hover {
-  color: #fff !important;
+ 
+    color: #747377 !important;
 }
 .pagination span {
   color: #576486;
@@ -10691,7 +10703,8 @@ hr.solid {
 .slider-widget .slider-caption.light a.btn-2:focus,
 .slider-widget .slider-caption.light a.btn-2:active {
   background: #6c6b6b;
-  color: #fff !important;
+ 
+    color: #747377 !important;
 }
 .arrow-down {
   -webkit-animation: mover 1s infinite alternate;
@@ -16158,7 +16171,8 @@ input[type="number"] {
   border-radius: 2.7777777777777777rem;
   border: 0.1111111111111111rem solid currentColor;
   border: none;
-  color: #fff !important;
+ 
+    color: #747377 !important;
   display: inline-block;
   font-size: 1rem;
   font-weight: 700;
@@ -16261,7 +16275,8 @@ select#blog-categories {
   border-radius: 2.7777777777777777rem;
   border: 0.1111111111111111rem solid currentColor;
   border: none;
-  color: #fff !important;
+ 
+    color: #747377 !important;
   display: inline-block;
   font-size: 1rem;
   font-weight: 700;
@@ -16669,7 +16684,8 @@ select#blog-categories {
   background: linear-gradient(to left, #64c5be, #576486);
   border-radius: 2.2222222222222223rem;
   border: none;
-  color: #fff !important;
+ 
+    color: #747377 !important;
   font-size: 0.8888888888888888rem;
   font-weight: 700;
   height: auto;
@@ -16695,7 +16711,8 @@ select#blog-categories {
 }
 .gform_confirmation_wrapper .gform_confirmation_message {
   font-size: 1rem;
-  color: #fff !important;
+ 
+    color: #747377 !important;
   display: inline-block;
   background: #64c5be;
   padding: 0.5555555555555556rem 1.1111111111111112rem;
@@ -16768,7 +16785,8 @@ select#blog-categories {
   background: #576486;
   border-radius: 2.2222222222222223rem;
   border: none;
-  color: #fff !important;
+ 
+    color: #747377 !important;
   font-size: 1.1111111111111112rem;
   font-weight: 700;
   height: auto;
@@ -17355,7 +17373,8 @@ select#blog-categories {
 }
 .donateColumn_wrapper form .gform_body ul.gform_fields li.gfield_html,
 .donateColumn_wrapper form .gform_body .top_label li.gfield_html {
-  color: #fff !important;
+ 
+    color: #747377 !important;
   font-size: 18px;
   line-height: 1.4em !important;
   list-style-type: none !important;
@@ -17364,7 +17383,8 @@ select#blog-categories {
 .donateColumn_wrapper form .gform_body ul.gform_fields li.gfield_html h3,
 .donateColumn_wrapper form .gform_body .top_label li.gfield_html h3 {
   font-family: "Lato", sans-serif;
-  color: #fff !important;
+ 
+    color: #747377 !important;
   display: block;
   font-size: 22px !important;
   font-weight: 600;
@@ -17375,7 +17395,8 @@ select#blog-categories {
 }
 .donateColumn_wrapper form .gform_body ul.gform_fields li.gfield_html h3 span,
 .donateColumn_wrapper form .gform_body .top_label li.gfield_html h3 span {
-  color: #fff !important;
+ 
+    color: #747377 !important;
   display: inline-block;
   font-size: 24px;
   font-weight: 400;
@@ -17383,13 +17404,15 @@ select#blog-categories {
 .donateColumn_wrapper form .gform_body ul.gform_fields li.gfield_html p,
 .donateColumn_wrapper form .gform_body .top_label li.gfield_html p {
   font-family: "Lato", sans-serif;
-  color: #fff !important;
+ 
+    color: #747377 !important;
   font-size: 17px;
   line-height: 1.4em;
 }
 .donateColumn_wrapper form .gform_body ul.gform_fields li.gfield_html p a,
 .donateColumn_wrapper form .gform_body .top_label li.gfield_html p a {
-  color: #fff !important;
+ 
+    color: #747377 !important;
 }
 .donateColumn_wrapper form .gform_body ul.gform_fields li.gfield_html ul.list,
 .donateColumn_wrapper form .gform_body .top_label li.gfield_html ul.list {
@@ -17406,7 +17429,8 @@ select#blog-categories {
   li,
 .donateColumn_wrapper form .gform_body .top_label li.gfield_html ul.list li {
   font-family: "Lato", sans-serif;
-  color: #fff !important;
+ 
+    color: #747377 !important;
   font-size: 16px;
   font-weight: 400 !important;
   line-height: 1.4em !important;
@@ -18627,7 +18651,8 @@ select#blog-categories {
   background: #ff9b01;
   border-radius: 7px;
   border: none;
-  color: #fff !important;
+ 
+    color: #747377 !important;
   display: block !important;
   font-size: 20px !important;
   font-weight: 700;
@@ -18643,7 +18668,8 @@ select#blog-categories {
 .donateColumn_wrapper form .gform_footer input[type="submit"]:focus,
 .donateColumn_wrapper form .gform_footer input[type="submit"]:active {
   background: #cd7c00;
-  color: #fff !important;
+ 
+    color: #747377 !important;
   text-decoration: none;
 }
 .donateColumn_wrapper .gform_wrapper div.validation_error {
@@ -19694,14 +19720,16 @@ section.sec-dnt-a .donation-text h2 {
 }
 section.sec-dnt-a .donation-text p {
   font-family: "Lato", sans-serif;
-  color: #fff !important;
+ 
+    color: #747377 !important;
   font-size: 18px;
   font-weight: 400;
   line-height: 1.2em;
 }
 section.sec-dnt-a .donation-text p strong {
   font-family: "GothamBook", sans-serif;
-  color: #fff !important;
+ 
+    color: #747377 !important;
   text-transform: uppercase;
   line-height: 1.2em;
   font-weight: 700;
@@ -20554,7 +20582,8 @@ section.sec-dnt-c .box-column-c .info-box .link-c {
 }
 .interior_contact-us .sidebar-contact h4 {
   font-family: "Lato", sans-serif;
-  color: #fff !important;
+ 
+    color: #747377 !important;
   font-size: 28px;
   font-weight: 400;
   line-height: 1em;
@@ -20565,7 +20594,8 @@ section.sec-dnt-c .box-column-c .info-box .link-c {
   margin-right: 10px;
 }
 .interior_contact-us .sidebar-contact a {
-  color: #fff !important;
+ 
+    color: #747377 !important;
   display: block;
   line-height: 1.3em;
   margin-bottom: 8px;
@@ -20573,7 +20603,8 @@ section.sec-dnt-c .box-column-c .info-box .link-c {
 }
 .interior_contact-us .sidebar-contact p {
   font-family: "Lato", sans-serif;
-  color: #fff !important;
+ 
+    color: #747377 !important;
   text-decoration: none;
   display: block;
   text-align: left;
@@ -21191,7 +21222,8 @@ body.woocommerce-page .return-to-shop a.button {
   display: inline-block !important;
 }
 body.woocommerce-page .return-to-shop a.button:hover {
-  color: #fff !important;
+ 
+    color: #747377 !important;
 }
 body.single-product .woocommerce-temp div.product span.onsale {
   font-family: "Lato", sans-serif;
@@ -22070,7 +22102,8 @@ hr.solid {
   background: #576486;
   border-radius: 30px;
   border: none;
-  color: #fff !important;
+ 
+    color: #747377 !important;
   display: inline-block;
   font-size: 18px !important;
   font-weight: 800 !important;
@@ -22105,7 +22138,8 @@ hr.solid {
   .tribe-bar-submit
   input[type="submit"]:active {
   background: #434d67;
-  color: #fff !important;
+ 
+    color: #747377 !important;
   text-decoration: none;
 }
 #tribe-events-content-wrapper
@@ -22240,7 +22274,8 @@ hr.solid {
   td.tribe-events-has-events
   div[id*="tribe-events-daynum-"] {
   background-color: #576486 !important;
-  color: #fff !important;
+ 
+    color: #747377 !important;
 }
 #tribe-events-content-wrapper
   #tribe-events-content.tribe-events-month
@@ -22549,7 +22584,8 @@ hr.solid {
   a.tribe-events-read-more {
   font-family: "Lato", sans-serif;
   background: #64c5be !important;
-  color: #fff !important;
+ 
+    color: #747377 !important;
   font-weight: 700 !important;
   border-radius: 30px;
   border: none;
@@ -22731,8 +22767,7 @@ hr.solid {
     padding: 0;
   }
   #tribe_events_filters_toggle {
-    margin: 0 !important;
-    color: #fff !important;
+    margin: 0 !important;color: #777272 !important;
   }
   .tribe-bar-collapse #tribe-bar-views-toggle:after {
     top: 10px;
@@ -22876,7 +22911,8 @@ hr.solid {
   font-family: "Lato", sans-serif;
   border-radius: 30px;
   border: none;
-  color: #fff !important;
+ 
+    color: #747377 !important;
   display: inline-block;
   font-size: 16px;
   font-weight: 700 !important;
@@ -23007,7 +23043,8 @@ hr.solid {
   font-family: "Lato", sans-serif;
   border-radius: 30px;
   border: none;
-  color: #fff !important;
+ 
+    color: #747377 !important;
   display: inline-block;
   font-size: 16px;
   font-weight: 700 !important;
@@ -23292,7 +23329,8 @@ hr.solid {
   font-family: "Lato", sans-serif;
   border-radius: 30px;
   border: none;
-  color: #fff !important;
+ 
+    color: #747377 !important;
   display: inline-block;
   font-size: 16px;
   font-weight: 700 !important;
@@ -23671,7 +23709,8 @@ hr.solid {
   font-family: "Lato", sans-serif;
   border-radius: 30px;
   border: none;
-  color: #fff !important;
+ 
+    color: #747377 !important;
   display: inline-block;
   font-size: 16px;
   font-weight: 700 !important;
@@ -23716,15 +23755,18 @@ hr.solid {
   font-size: 41px;
   font-weight: 400;
   margin: 0 auto 20px;
-  color: #fff !important;
+ 
+    color: #747377 !important;
 }
 .page-template-_event-template_custom .last-section-event p {
   margin-bottom: 30px;
-  color: #fff !important;
+ 
+    color: #747377 !important;
 }
 .page-template-_event-template_custom .last-section-event .heart-donation-btn {
   @iclude font1;
-  color: #fff !important;
+ 
+    color: #747377 !important;
   font-size: 25px;
   font-weight: 700;
   letter-spacing: -1px;
@@ -24684,7 +24726,8 @@ hr.solid {
   input:checked
   + label {
   background: #06cb7e !important;
-  color: #fff !important;
+ 
+    color: #747377 !important;
   display: block !important;
 }
 .donateSteps_wrapper
@@ -25253,7 +25296,8 @@ hr.solid {
   background: #ff9b01;
   border-radius: 7px;
   border: none;
-  color: #fff !important;
+ 
+    color: #747377 !important;
   display: block !important;
   font-size: 20px !important;
   font-weight: 700;
@@ -25269,7 +25313,8 @@ hr.solid {
 .donateSteps_wrapper form .gform_footer input[type="submit"]:focus,
 .donateSteps_wrapper form .gform_footer input[type="submit"]:active {
   background: #cd7c00;
-  color: #fff !important;
+ 
+    color: #747377 !important;
   text-decoration: none;
 }
 .donateSteps_wrapper .gform_wrapper div.validation_error {
@@ -25492,7 +25537,8 @@ hr.solid {
   background: #0165ae;
   border-radius: 30px;
   border: none;
-  color: #fff !important;
+ 
+    color: #747377 !important;
   display: inline-block;
   font-size: 16px;
   font-weight: 700;
@@ -25852,15 +25898,18 @@ hr.solid {
   font-size: 41px;
   font-weight: 400;
   margin: 0 auto 20px;
-  color: #fff !important;
+ 
+    color: #747377 !important;
 }
 .page-template-_category-blog-news .donate-section-ctgry p {
   margin-bottom: 30px;
-  color: #fff !important;
+ 
+    color: #747377 !important;
 }
 .page-template-_category-blog-news .donate-section-ctgry .heart-donation-btn {
   @iclude font1;
-  color: #fff !important;
+ 
+    color: #747377 !important;
   font-size: 25px;
   font-weight: 700;
   letter-spacing: -1px;
@@ -25999,7 +26048,8 @@ hr.solid {
   .footer_feed
   .icon_feed
   i {
-  color: #fff !important;
+ 
+    color: #747377 !important;
 }
 .widget_social_feed
   .social_feed_lvtn
